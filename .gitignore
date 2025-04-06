@@ -1,0 +1,16 @@
+# Ignore temp/cache directories
+.auth
+.idea
+.git
+.pytest_cache
+__pycache__
+.DS_Store
+
+# Ignore test-results directory
+test-results
+
+# Ignore all screenshots
+*.png
+*.html
+*.zip
+
